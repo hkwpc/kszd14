@@ -7,4 +7,5 @@ https://moist.996.buzz/sub?host=freenodes.pusytroller.cf&uuid=ca8692b7-8f6f-4346
 
 # 优选节点
 ```
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cloudflare.182682.xyz:2095?encryption=none&security=none&fp=randomized&type=ws&host=freenodes.pusytroller.cf&path=%2F%3Fed%3D2048#Visa%20HK```
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cloudflare.182682.xyz:2095?encryption=none&security=none&fp=randomized&type=ws&host=freenodes.pusytroller.cf&path=%2F%3Fed%3D2048#Visa%20HK
+```
