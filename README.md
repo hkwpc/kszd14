@@ -1,7 +1,7 @@
 # free-vless
 
-subscribe link: 订阅长期有效。需要配合V2ray客户端使用
-https://VLESS.fxxk.dedyn.io/sub?host=freenodes.pusytroller.cf&uuid=ca8692b7-8f6f-4346-a916-c1e9798ab91b
+subscribe link: 订阅长期有效。
+```https://url.v1.mk/sub?target=clash&url=vless%3A%2F%2Fd342d11e-d424-4583-b36e-524ab1f0afa4%40cloudflare.182682.xyz%3A2095%3Fencryption%3Dnone%26security%3Dnone%26fp%3Drandomized%26type%3Dws%26host%3Dfreenodes.pusytroller.cf%26path%3D%252F%253Fed%253D2560%23%E5%85%8D%E8%B4%B9%E4%B8%8D%E6%AD%BB%E8%8A%82%E7%82%B9&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&new_name=true```
 
 
 # 优选节点
