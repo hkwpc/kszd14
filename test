@@ -15,7 +15,7 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {name: 免费不死节点, server: cf.090227.xyz, port: 2095, client-fingerprint: randomized, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: freenodes.pusytroller.cf}}}
+  - {name: free, server: cf.090227.xyz, port: 2095, client-fingerprint: randomized, type: vless, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: freenodes.pusytroller.cf}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -32,14 +32,14 @@ proxy-groups:
   - name: 🚀 手动切换
     type: select
     proxies:
-      - 免费不死节点
+      - free
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 免费不死节点
+      - free
   - name: 📲 电报消息
     type: select
     proxies:
